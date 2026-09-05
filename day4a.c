@@ -1,4 +1,4 @@
-//Q7: Write a program to swap two numbers without using a third variable.
+//Q7: Write a program to swap two numbers without using two variables.
 
 /*
 Sample Test Cases:
@@ -26,4 +26,5 @@ int main(){
     printf("a:%d\n",a);
     printf("b:%d\n",b);
 }
+
 

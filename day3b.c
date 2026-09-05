@@ -13,3 +13,18 @@ Output 2:
 After swap: 1 -1
 
 */
+#include<stdio.h>
+int main(){
+    int a,b,c;
+    printf("Enter the value of a:");
+    scanf("%d",&a);
+    printf("enter the value of b:");
+    scanf("%d",&b);
+    c=a;
+    a=b;
+    b=c;
+    printf("a:%d\n",a);
+    printf("b:%d\n",b);
+}
+
+
