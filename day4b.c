@@ -15,6 +15,7 @@ Sum=55
 */
 #include<stdio.h>
 int main(){
+    
     int n,sum=0,i;
     printf("enter value of n: ");
     scanf("%d",&n);
@@ -25,8 +26,6 @@ int main(){
     }   
     
     printf("Sum = %d\n",sum);
-
-
 
 
 }
