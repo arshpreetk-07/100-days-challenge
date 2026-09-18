@@ -39,10 +39,5 @@ int main(){
         }
     }   
     printf("the smallest element of array: %d\n",min);
-    
-
-
-    
-
 
 }
